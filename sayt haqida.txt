@@ -21,3 +21,9 @@ Loyiha qanday ishlaydi
     U haqida fikr bildirishi; 
     Uning harakatlari asosida mahsulot tavsiy qilishi mumkin
     Saytda Asosiy, Profile, Mahsulot, Feedback, kabi pagelar bo'ladi ilohi boricha
+
+
+-----Qilinadigan rejalar-----
+Bootstrap ulash
+Asosiy ranglar tanlash
+Dizayn yaratish
