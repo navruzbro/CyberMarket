@@ -1,0 +1,23 @@
+Sayt haqida fayl
+
+-----
+Saytda birinchi bo'lib Frontend qismini yozib chiqamiz sekinlik bilan bo'lsa ham
+Keyin django yordamida backendni jonantiramiz 
+Frontendni yaratish jarayonida javascript texnologiyasini ham o'zlashtirib;
+    - Loyihada qo'llab boramiz 
+Iloji boricha API qabul qilishni o'rganib boramiz va qo'llaymiz
+Saytni iloji boricha zamonaviy usulda qilishga harakat qilamiz. 
+Sekin bo'lsa ham sifatli bo'lsin  <>
+
+Backendni ham qotmay ishlaydigan qilishga harakat qilamiz foydalanuvchi harakatlarini cheklab qo'yish orqali
+       - Nimalar bo'lishini o'ylab backend ishini yengilashtiramiz va bu haqida malumot berib o'tamiz
+Backend yozyotganda Unit Testlar yozishimiz shart va yana shart!
+
+
+--------
+Loyiha qanday ishlaydi
+    CyberMarket asosan texnika jihozlari turli xil mahsulotlar sotiladigan joy hisoblanadi;
+    U yerdan mahsulot buyurtma berish, foydalanuvchi o'z savatiga saqlashi, mahsulotni yotirishi;
+    U haqida fikr bildirishi; 
+    Uning harakatlari asosida mahsulot tavsiy qilishi mumkin
+    Saytda Asosiy, Profile, Mahsulot, Feedback, kabi pagelar bo'ladi ilohi boricha
